@@ -1,28 +1,21 @@
-# Projeto-DIO-HTML-Jogo-Velha
-
-:spiral_calendar: Atualizado em 03 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 10 de Abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One HTML
-# Recriando a interface do Netflix
-Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/felipeAguiarCode/netflix-clone
+# Criando seu próprio jogo da velha com HTML e Javascript
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/ruschoni02/jogo-da-velha
+- Professor: Vitor Ruschoni
+- Aula: https://web.digitalinnovation.one/lab/criando-seu-proprio-jogo-da-velha-com-html-e-javascript/learning/77459b5a-ef9a-4b9f-8806-e76e00a84a97
 
 # Descrição
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
 
 # Melhorias implementadas
-- Obtive outras imagens do site TMDB https://www.themoviedb.org/?language=pt-BR
-- Crie pastas para segregar as imagens por página do site
-- Arredondei as bordas dos botões (inclusive no hover)
-- Coloquei link no botão assistir agora para ativar página de "traillers"
-- Criei página de "traillers" para exibir quatro "traillers" do YouTube
-- Configurei OWL para "traillers" e "info"
-- Coloquei link no botão "Início" do menu superior para chamar o "index.html"
-- Coloquei link no logotipo NETFLIX do menu superior para chamar o "index.html"
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Melhorias futuras
-- Implementar back-end ou api para não ser estático
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Exemplos de telas
 
