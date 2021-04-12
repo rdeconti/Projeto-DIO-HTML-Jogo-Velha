@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 20px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 50px;
+    color: red;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.value {
+    font-size: 50px;
+    color: rgb(10, 134, 41);
+    margin-top: 10px;
+    font-weight:lighter;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 50px;
+    color:blue;
+}
