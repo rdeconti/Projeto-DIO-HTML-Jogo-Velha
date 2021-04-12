@@ -30,10 +30,13 @@ Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML 
 # Exemplos de telas
 
 ## Tela INICIAL
+
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
 
 ## Tela do Jogo
+
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
 
 ## Tela ....
+
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
