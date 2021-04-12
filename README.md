@@ -31,12 +31,12 @@ Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML 
 
 ## Tela INICIAL
 
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha/blob/main/screen_tests/tela-inicial.jpg" />
 
-## Tela do Jogo
+## Tela SEM VENCEDOR
 
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha/blob/main/screen_tests/tela-sem-encedor.jpg" />
 
-## Tela ....
+## Tela COM VENCEDOR
 
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha/blob/main/screen_tests/tela-vencedor.jpg" />
